@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* ✅ Properly placed meta tag //*/}
+        {/* ✅ Properly placed meta tag */}
         <meta
           name="google-site-verification"
           content="kFE4cC7NnG481HmXKTKA4Odlf_MYIpuoLN6HCqpDl0g"
